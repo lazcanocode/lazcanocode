@@ -1,4 +1,4 @@
-<h2><img src="https://ibb.co/yFmSDff" width="50">Hello, I'm Luis Lazcano!!!</h2>
+<h2><img src="https://ibb.co/yFmSDff" width="50"/> Hello, I'm Luis Lazcano!!!</h2>
 
 Somethings about me...  
 
